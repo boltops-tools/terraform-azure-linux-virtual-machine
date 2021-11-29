@@ -40,11 +40,11 @@ As covered in: [Terraspace Azure Getting Started Docs: Configure Azure](https://
 
 ## Deploy
 
-    terraspace up network
+    terraspace up linux_vm
 
 ## Clean Up
 
-    terraspace down network
+    terraspace down linux_vm
 
 ## Terraspace Project Example
 
